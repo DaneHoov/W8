@@ -34,4 +34,4 @@ nemo.swim(); // Nemo swimming in the water
 
 /********************************* Scenario 5 *********************************/
 // const swim = nemo.swim;
-swim(); // Nemo swimming in the water
+swim(); // swim is not defined **Nemo swimming in the water
